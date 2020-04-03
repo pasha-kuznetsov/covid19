@@ -1,6 +1,7 @@
 ### Prerequisites
 
-* [direnv](https://direnv.net/)
+* Python3
+* [direnv](https://direnv.net/) recommended
 
 ### Install
 
