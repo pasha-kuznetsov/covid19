@@ -18,3 +18,4 @@ jupyter notebook
 ### Published at
 
 * https://pasha-kuznetsov.github.io/covid19/
+  ** Source data is taken from https://github.com/nytimes/covid-19-data
