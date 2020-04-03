@@ -1,0 +1,6 @@
+jupyterlab
+requests
+altair
+vega_datasets
+seaborn
+matplotlib
