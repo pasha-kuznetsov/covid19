@@ -14,3 +14,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
+
+### Published at
+
+* https://pasha-kuznetsov.github.io/covid19/
