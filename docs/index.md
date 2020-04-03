@@ -1,5 +1,7 @@
 ### Available visualizations
 
-* [./us-states.html]
-* [./us-states-heatmap.html]
-* [./us-states-detail.html]
+## US States
+
+* [Overview](./us-states.html)
+* [Heatmap](./us-states-heatmap.html)
+* [Detail](./us-states-detail.html)
