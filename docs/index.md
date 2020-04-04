@@ -18,4 +18,4 @@
 
 ---
 
-Source data is from [The New York Times repository](https://github.com/nytimes/covid-19-data)
+Updated from The New York Times [covid-19-data](https://github.com/nytimes/covid-19-data) on 4/3.
