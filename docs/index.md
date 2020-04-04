@@ -2,17 +2,17 @@
 
 ## US States Deaths
 
-* [Deaths Overview](./us-states-deaths.html)
+* [Deaths Summary](./us-states-deaths.html)
 * [Deaths Heatmap](./us-states-deaths-heatmap.html)
-* [Deaths Detail](./us-states-deaths-detail.html)
+* [Deaths By State](./us-states-deaths-detail.html)
 * [Deaths New vs Total](./us-states-deaths-diff.html)
 * [Deaths New vs Total By State](./us-states-deaths-diff-detail.html)
 
 ## US States Cases
 
-* [Cases Overview](./us-states-cases.html)
+* [Cases Summary](./us-states-cases.html)
 * [Cases Heatmap](./us-states-cases-heatmap.html)
-* [Cases Detail](./us-states-cases-detail.html)
+* [Cases By State](./us-states-cases-detail.html)
 * [Cases New vs Total](./us-states-cases-diff.html)
 * [Cases New vs Total By State](./us-states-cases-diff-detail.html)
 
