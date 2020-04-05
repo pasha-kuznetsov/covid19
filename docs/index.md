@@ -17,7 +17,7 @@
 * [Cases New vs Total By State](./us-states-cases-diff-detail.html)
 
 ## Case Fatality Rate
-* [CFR Summary](./us-states-cfr.html)
+* [CFR Total](./us-states-cfr.html)
 * [CFR By State](./us-states-cfr-detail.html)
 
 ---
