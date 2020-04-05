@@ -16,6 +16,10 @@
 * [Cases New vs Total](./us-states-cases-diff.html)
 * [Cases New vs Total By State](./us-states-cases-diff-detail.html)
 
+## Case Fatality Rate
+* [CFR Summary](./us-states-cfr.html)
+* [CFR By State](./us-states-cfr-detail.html)
+
 ---
 
 Updated from The New York Times [covid-19-data](https://github.com/nytimes/covid-19-data) on 4/3.
