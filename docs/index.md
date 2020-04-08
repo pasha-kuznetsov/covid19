@@ -2,8 +2,8 @@
 
 ## US States Deaths
 
-* [Deaths Summary](./us-states-deaths.html)
-* [Deaths By State](./us-states-deaths-detail.html)
+* [Deaths Summary](./us-states-deaths.html)\*
+* [Deaths By State](./us-states-deaths-detail.html)\*
 * [Deaths Heatmap](./us-states-deaths-heatmap.html)
 * [Deaths New vs Total](./us-states-deaths-diff.html)
 * [Deaths New vs Total By State](./us-states-deaths-diff-detail.html)
@@ -22,4 +22,4 @@
 
 ---
 
-Updated from The New York Times [covid-19-data](https://github.com/nytimes/covid-19-data) as of 4/5.
+Updated from The New York Times [covid-19-data](https://github.com/nytimes/covid-19-data) as of 4/7 (\*4/5).
