@@ -24,4 +24,4 @@
 
 ---
 
-Updated from The New York Times [covid-19-data](https://github.com/nytimes/covid-19-data) as of 4/26.
+Updated from The New York Times [covid-19-data](https://github.com/nytimes/covid-19-data) as of 5/12.
